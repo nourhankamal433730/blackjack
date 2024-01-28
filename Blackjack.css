@@ -1,0 +1,36 @@
+body {
+
+    background-image: url("Wooden table for product background featuring wood, wooden, and table.jpeg");
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-size: cover;
+    margin-top: 50px;
+   
+
+}
+
+h1{
+
+    color:rgb(196, 151, 36);
+
+}
+
+#message-el{ 
+
+    font-style: italic;
+
+}
+
+button{
+    color:white ;
+    width: 150px;
+    background-color:rgb(196, 151, 36) ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
